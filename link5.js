@@ -1,5 +1,3 @@
-// 20211001154121
-// https://cdn.jsdelivr.net/gh/anortzf/category/file2.js
 
 [
   {
